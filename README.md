@@ -31,17 +31,17 @@ _Neighborhood graffiti perception score_ = _Number of Flickr posts(norm.)_ – _
 ## Reference & Data Source:
 
 References:
-T. White. Hadoop: The Definitive Guide. O’Reilly Media Inc., Sebastopol, CA, May 2012.
-A. Gates. Programming Pig. O’Reilly Media Inc.,Sebastopol, CA,  October 2011.
-J. Dean and S. Ghemawat. MapReduce: Simplified data processing on large clusters. In proceedings of 6th Symposium on Operating Systems Design and Implemenation, 2004.
-S. Ghemawat, H. Gobioff, S. T. Leung. The Google File System. In Proceedings of the nineteenth ACM Symposium on Operating Systems Principles – SOSP ‘03, 2003.
-E.. Tokuda, R. Cesar-Jr., C. Silva. Quantifying the presence of graffiti in urban environments. The Google File System. In Proceedings of IEEE International Conference on Big Data and Smart Computing, 2019.
-John D. Boy and  Justus Uitermark. How to Study the City on Instagram. PLOS ONE, June 2016 
-MacDowall Lachlan, A Boneyard of Data: Graffiti and Street Art’s Temporalities. 2015
-MacDowall, L. , Graffiti, Street Art and Stigmergy” in Lossau, J. and Stevens, Q. The Uses of Art in Public Space (London: Routledge, 2015)
+* T. White. Hadoop: The Definitive Guide. O’Reilly Media Inc., Sebastopol, CA, May 2012.
+* A. Gates. Programming Pig. O’Reilly Media Inc.,Sebastopol, CA,  October 2011.
+* J. Dean and S. Ghemawat. MapReduce: Simplified data processing on large clusters. In proceedings of 6th Symposium on Operating Systems Design and Implemenation, 2004.
+8 S. Ghemawat, H. Gobioff, S. T. Leung. The Google File System. In Proceedings of the nineteenth ACM Symposium on Operating Systems Principles – SOSP ‘03, 2003.
+* E.Tokuda, R. Cesar-Jr., C. Silva. Quantifying the presence of graffiti in urban environments. The Google File System. In Proceedings of IEEE International Conference on Big Data and Smart Computing, 2019.
+* John D. Boy and  Justus Uitermark. How to Study the City on Instagram. PLOS ONE, June 2016 
+* MacDowall Lachlan, A Boneyard of Data: Graffiti and Street Art’s Temporalities. 2015
+* MacDowall Lachlan, Graffiti, Street Art and Stigmergy” in Lossau, J. and Stevens, Q. The Uses of Art in Public Space (London: Routledge, 2015)
 
 Data Sources:
-https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
-https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
-https://www.flickr.com/
+* https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
+* https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
+* https://www.flickr.com/
 
